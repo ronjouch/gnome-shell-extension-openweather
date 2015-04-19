@@ -90,7 +90,14 @@ To use [Forecast.io](https://forecast.io) you need an to [register](https://deve
 
 ----
 
-# Licence
+# Troubleshooting
+
+- *Q: Weather fails to load, regardless of whether I use openweathermap or forecast.io and even using proper API keys for each. The panel just shows "Loading current weather..."*  
+  A: Try deleting your locations and then adding them again.
+
+----
+
+# License
 
 Copyright (C) 2011 - 2015
 
